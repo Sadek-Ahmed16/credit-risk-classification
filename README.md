@@ -1,5 +1,5 @@
 # credit-risk-classification
-## Module 20 - Supervised learning - Credit Risk Classificatior
+## Module 20 - Supervised learning - Credit Risk Classification
 
 ### Challenge Content
 
