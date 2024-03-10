@@ -3,7 +3,7 @@
 
 ### Challenge Content
 
-This repository includes the following files needed to to predict if cryptocurrencies are affected by 24-hour or 7-day price changes for this challenge:
+This repository includes the following files needed to to predict the loan status of a borrower; included for this challenge:
 
 - 'Credit_Risk/Resources/lending_data.csv' (data)
 - 'Credit_Risk/credit_risk_classification.ipynb' (notebook)
